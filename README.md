@@ -114,7 +114,7 @@ The data behind these files is used on [Safe Nido](https://www.safenido.fr/), an
 
 - [Every ADAC session, explained in French](https://www.safenido.fr/test-adac/)
 - [Autumn 2026 session](https://www.safenido.fr/test-adac/automne-2026/)
-- [How to read an ADAC grade](https://www.safenido.fr/crash-test-siege-auto/lire-une-note-adac/)
+- [How to read an ADAC grade](https://www.safenido.fr/test-adac/comment-lire-note-adac/)
 
 ---
 
